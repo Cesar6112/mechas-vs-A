@@ -1,0 +1,62 @@
+{
+  "name": "mechas-vs-A",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": {
+      "$className": "ReplicatedStorage",
+      "$properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        }
+      },
+      "$ignoreUnknownInstances": true,
+      "$path": "src/ReplicatedStorage"
+    },
+    "ServerScriptService": {
+      "$className": "ServerScriptService",
+      "$properties": {
+        "SerializedOverrides": {
+          "BinaryString": ""
+        }
+      },
+      "$ignoreUnknownInstances": true,
+      "$path": "src/ServerScriptService"
+    },
+    "StarterPlayer": {
+      "$className": "StarterPlayer",
+      "StarterCharacterScripts": {
+        "$className": "StarterCharacterScripts",
+        "$properties": {
+          "SerializedOverrides": {
+            "BinaryString": ""
+          }
+        },
+        "$ignoreUnknownInstances": true,
+        "$path": "src/StarterPlayer/StarterCharacterScripts"
+      },
+      "StarterPlayerScripts": {
+        "$className": "StarterPlayerScripts",
+        "$properties": {
+          "SerializedOverrides": {
+            "BinaryString": ""
+          }
+        },
+        "$ignoreUnknownInstances": true,
+        "$path": "src/StarterPlayer/StarterPlayerScripts"
+      },
+      "$properties": {
+        "AvatarJointUpgrade": "Enabled",
+        "CameraMaxZoomDistance": 128.0,
+        "CharacterBreakJointsOnDeath": false,
+        "CharacterUseJumpPower": false,
+        "SerializedOverrides": {
+          "BinaryString": ""
+        },
+        "UseImprovedCharacterEvents": {
+          "Enum": 0
+        }
+      },
+      "$ignoreUnknownInstances": true
+    }
+  }
+}
